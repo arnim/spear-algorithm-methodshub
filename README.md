@@ -1,5 +1,10 @@
 # SPEAR: Ranking User Expertise and Resource Quality from Time-Ordered Interactions
 
+[![Launch with Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnim/spear-algorithm-methodshub/HEAD?urlpath=lab/tree/spear_algorithm.ipynb)
+[![Launch with Jupyter4NFDI](https://img.shields.io/badge/Launch-Jupyter4NFDI-orange)](https://hub.nfdi-jupyter.de/v2/gh/arnim/spear-algorithm-methodshub/HEAD?urlpath=lab/tree/spear_algorithm.ipynb&localstoragepath=%2Fhome%2Fjovyan%2Fwork)
+
+Open the notebook directly in a temporary executable environment with [mybinder.org](https://mybinder.org/) or [Jupyter4NFDI](https://nfdi-jupyter.de/users/jupyterlab/repo2docker).
+
 ## Description
 
 SPEAR estimates which users are likely to be experts and which resources are likely to be high quality from a chronological list of user-resource interactions. It is useful when the timing of an interaction matters: users who discover resources before other users do can receive more credit than later users. The method returns two ranked tables, one for user expertise and one for resource quality.
