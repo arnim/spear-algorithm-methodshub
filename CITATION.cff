@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "SPEAR: Ranking user expertise and resource quality from time-ordered interactions"
+message: "If you use this Methods Hub submission, please cite it and the original SPEAR paper."
+type: software
+authors:
+  - family-names: Bleier
+    given-names: Arnim
+repository-code: "https://github.com/arnim/SpearAlgorithm.jl"
+license: MIT
+references:
+  - type: conference-paper
+    title: "Telling Experts from Spammers"
+    authors:
+      - family-names: Noll
+        given-names: Michael G.
+      - family-names: Au Yeung
+        given-names: Ching-man
+      - family-names: Gibbins
+        given-names: Nicholas
+      - family-names: Meinel
+        given-names: Christoph
+      - family-names: Shadbolt
+        given-names: Nigel
+    year: 2009
+    doi: 10.1145/1571941.1572046

@@ -1,0 +1,18 @@
+timestamp,user,resource,tag
+2026-01-01 09:00,Alice,open-data-portal,data
+2026-01-01 09:05,Bob,open-data-portal,statistics
+2026-01-01 09:10,Chandra,miracle-cure-shop,health
+2026-01-01 09:20,Dina,open-data-portal,policy
+2026-01-01 09:30,Alice,reproducible-survey-guide,survey
+2026-01-01 09:40,Bob,reproducible-survey-guide,methods
+2026-01-01 09:50,Eve,miracle-cure-shop,discount
+2026-01-01 10:00,Farid,miracle-cure-shop,discount
+2026-01-01 10:10,Chandra,miracle-cure-shop,discount
+2026-01-01 10:20,Dina,reproducible-survey-guide,open-science
+2026-01-01 10:30,Greta,open-data-portal,data
+2026-01-01 10:40,Alice,validated-election-data,elections
+2026-01-01 10:50,Bob,validated-election-data,politics
+2026-01-01 11:00,Dina,validated-election-data,democracy
+2026-01-01 11:10,Eve,random-link-farm,seo
+2026-01-01 11:20,Farid,random-link-farm,seo
+2026-01-01 11:30,Chandra,random-link-farm,seo
