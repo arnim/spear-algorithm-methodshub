@@ -123,6 +123,8 @@ Main parameters in [`spear.py`](spear.py):
 
 This submission was prepared with assistance from an AI coding assistant. The assistant helped draft explanatory text, create the example notebook structure, implement and test the Python code, and check Binder readiness. The author reviewed, edited, and takes responsibility for the final content, code, and citations.
 
+A shared log of the AI-assisted preparation process is available here: [AI assistance log](https://pi.dev/session/#7935c5947f3c94520397f1abbb777216).
+
 ## References
 
 The references follow a consistent APA style, in line with the Methods Hub guidelines.
