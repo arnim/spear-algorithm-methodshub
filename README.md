@@ -135,3 +135,7 @@ The references follow a consistent APA style, in line with the Methods Hub guide
 ## Contact Details
 
 For questions about this Methods Hub submission, contact Arnim Bleier via the repository issue tracker.
+
+## Funding Acknowledgement
+
+This work was supported by Jupyter4NFDI, funded through Base4NFDI by the German Research Foundation (DFG), project number 521453681.
