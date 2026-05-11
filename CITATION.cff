@@ -1,12 +1,22 @@
 cff-version: 1.2.0
+message: "If you use this Methods Hub submission, please cite this repository and the original SPEAR paper listed in the references."
 title: "SPEAR: Ranking user expertise and resource quality from time-ordered interactions"
-message: "If you use this Methods Hub submission, please cite it and the original SPEAR paper."
 type: software
 authors:
   - family-names: Bleier
     given-names: Arnim
-repository-code: "https://github.com/arnim/SpearAlgorithm.jl"
+abstract: "A Methods Hub-ready, executable Jupyter notebook and compact Python implementation of the SPEAR algorithm for ranking user expertise and resource quality from time-ordered user-resource interactions."
+keywords:
+  - SPEAR algorithm
+  - expertise ranking
+  - resource quality
+  - social bookmarking
+  - digital behavioral data
 license: MIT
+version: 1.0.0
+date-released: "2026-05-11"
+repository-code: "https://github.com/arnim/spear-algorithm-methodshub"
+url: "https://github.com/arnim/spear-algorithm-methodshub"
 references:
   - type: conference-paper
     title: "Telling Experts from Spammers"
@@ -23,3 +33,34 @@ references:
         given-names: Nigel
     year: 2009
     doi: 10.1145/1571941.1572046
+    publisher:
+      name: Association for Computing Machinery
+    conference:
+      name: "32nd International ACM SIGIR Conference on Research and Development in Information Retrieval"
+    start: 612
+    end: 619
+  - type: article
+    title: "Authoritative sources in a hyperlinked environment"
+    authors:
+      - family-names: Kleinberg
+        given-names: Jon M.
+    journal: "Journal of the ACM"
+    volume: 46
+    issue: 5
+    start: 604
+    end: 632
+    year: 1999
+    doi: 10.1145/324133.324140
+  - type: software
+    title: "SpearAlgorithm.jl"
+    authors:
+      - family-names: Bleier
+        given-names: Arnim
+    year: 2013
+    repository-code: "https://github.com/arnim/SpearAlgorithm.jl"
+  - type: generic
+    title: "SPEAR Algorithm"
+    authors:
+      - family-names: Noll
+        given-names: Michael G.
+    url: "https://www.michael-noll.com/projects/spear-algorithm/"
