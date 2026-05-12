@@ -1,0 +1,14 @@
+name: Test Content for Methods Hub
+on:
+  push:
+    branches:
+      - master
+jobs:
+  test-methods-hub-render:
+    runs-on: ubuntu-24.04
+    name: Test Methods Hub render
+    steps:
+      - uses: actions/checkout@v4
+      - uses: GESIS-Methods-Hub/preview@v1
+        with:
+          file: README.md
